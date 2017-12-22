@@ -111,8 +111,8 @@ text-align: center;
 .nr2{
 display: inline-block;
 float:left;
-padding-left: 30px;
-padding-top: 150px;
+padding-left: 10px;
+padding-top: 50px;
 position: absolute;
 width: 600px;
 height: 450px;
@@ -132,4 +132,20 @@ height:60px;
 padding-bottom: 100px;
 width: 100%;
 height: 100%;
+}
+
+.nr3 img {
+padding-bottom: 100px;
+width: 100%;
+height: 100%;
+}
+
+.nr3{
+display: inline-block;
+float:left;
+padding-left: 30px;
+padding-top: 10px;
+position: absolute;
+width: 600px;
+height: 450px;
 }
